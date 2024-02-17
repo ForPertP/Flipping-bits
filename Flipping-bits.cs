@@ -14,7 +14,6 @@ using System;
 
 class Result
 {
-
     /*
      * Complete the 'flippingBits' function below.
      *
