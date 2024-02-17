@@ -22,7 +22,8 @@ class Result
      * The function accepts LONG_INTEGER n as parameter.
      */
 
-    public static long flippingBits(long n) {
+    public static long flippingBits(long n)
+    {
         return uint.MaxValue - n;
     }
 }
